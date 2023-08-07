@@ -1,0 +1,6 @@
+{
+    "manifest_version": 3,
+    "name": "Productifi",
+    "version": "1.0",
+    "description": "Block or redirect certain distracting websites on the internet"
+  }
