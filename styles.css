@@ -1,0 +1,32 @@
+body{
+    background-color: #FAF1E4;
+    margin: 0px;
+    padding: 10px;  
+    box-sizing: border-box;
+    min-width:400px;
+}
+
+#buttons{
+    margin:5px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.btns{
+    padding:20px 30px;
+    font-size:20px;
+    text-align: center;
+    border-radius: 5px;
+    border: 0px;
+    cursor:pointer;
+    background-color: #CEDEBD;
+    font-family: 'Mooli', sans-serif;
+    color: #435334;
+}
+
+ul{
+    list-style-type: none;
+}
+a{
+   color: #435334; 
+}

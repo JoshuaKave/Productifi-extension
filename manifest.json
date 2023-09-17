@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Productifi",
     "version": "1.0",
-    "description": "Block or redirect certain distracting websites on the internet",
+    "description": "Block or save urls on the internet",
     "action":{
       "default_popup":"main-page.html"
     },

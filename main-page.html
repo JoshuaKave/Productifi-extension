@@ -3,13 +3,19 @@
         <head>
             <title>Title of the document</title>
             <link rel="stylesheet" type="text/css" href="styles.css" />
+            <link rel="preconnect" href="https://fonts.googleapis.com">
+            <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+            <link href="https://fonts.googleapis.com/css2?family=Mooli&display=swap" rel="stylesheet">
         </head>
 
         <body>
-            <h1>Productifi</h1>
-            <input type = "text" id = "input-url">
-            <button id = "blk-btn">Block URL</button>
-            <script src="scripts.js"></script>
+            <div id="buttons">
+                <button id = "save-btn", class = "btns">Save</button>
+                <button id = "clear-btn", class = "btns">Clear</button>
+            </div>
+            <ul id = "save-list">
+            </ul>
+            <script src="scripts\scripts.js"></script>
         </body> 
 
 </html>
