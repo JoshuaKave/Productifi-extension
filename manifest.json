@@ -6,6 +6,12 @@
     "action":{
       "default_popup":"main-page.html"
     },
+    "icons": {
+      "16": "./icons/sprout16.png",
+      "32": "./icons/sprout32.png",
+      "48": "./icons/sprout48.png",
+      "128": "./icons/sprout128.png"
+    },
     "permissions": [
       "tabs",
       "activeTab"
